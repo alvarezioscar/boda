@@ -1,0 +1,18 @@
+[
+    {
+        "link": "http:\/\/localhost:8080\/boda\/post-type-elementor_library-sitemap-1.xml",
+        "updated": "2025-11-22T22:06:43-06:00"
+    },
+    {
+        "link": "http:\/\/localhost:8080\/boda\/post-type-page-sitemap-1.xml",
+        "updated": "2025-11-22T22:06:43-06:00"
+    },
+    {
+        "link": "http:\/\/localhost:8080\/boda\/post-type-post-sitemap-1.xml",
+        "updated": "2025-11-22T22:06:43-06:00"
+    },
+    {
+        "link": "http:\/\/localhost:8080\/boda\/taxonomy-type-category-sitemap-1.xml",
+        "updated": "2025-11-22T22:06:43-06:00"
+    }
+]
